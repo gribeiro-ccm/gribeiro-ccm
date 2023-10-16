@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Data Science with Python
 
 <div align="left">
-  <a href="https://github.com/GuilhermeBusiness">
   <img height="180em"/>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador" style="max-width: 100%;">
 </div>
