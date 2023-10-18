@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science with Python
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBusiness&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gribeiro-ccm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador" style="max-width: 100%;">
 </div>
 
